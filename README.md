@@ -20,7 +20,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Yuba neupane
+name: Yuba Neupane
 located_in: Pittsburgh, PA | United States
 current_job: Full Stack Developer
 education:
