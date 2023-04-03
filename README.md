@@ -46,7 +46,7 @@ technical_background:
   
 currently_learning: ["Docker, Kubernetes and Rust"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
 ```
   
 ---  
